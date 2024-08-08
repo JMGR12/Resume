@@ -1,17 +1,30 @@
 # Julisa Gonzalez Rosas
 Union City, NJ | Phone: 551-254-3739 | Email: Jumariago6@gmail.com
 
-## PROFESSIONAL SUMMARY
+## Professional Summary
 Ambitious junior-level professional pursuing a Bachelor's degree in Business & Information Systems, combining strong technical aptitude with diverse work experience. Demonstrates exceptional multitasking abilities, strong communication skills, and a commitment to excellence in both academic and professional settings. Passionate about leveraging technology to solve business problems and dedicated to continuous learning and growth.
 
-## EDUCATION
+## Technical Skills
+- Programming Languages: Java, Python (basic)
+- Web Development: HTML, CSS, JavaScript
+- Database Management: SQL
+- Version Control: Git
+- Microsoft Office Suite
+- Electronic Health Record (EHR) systems
+
+## Certifications
+- Emergency Medical Technician (EMT) - National Registry of Emergency Medical Technicians (NREMT)
+- Basic Life Support (BLS) for Healthcare Providers - American Heart Association
+- HIPAA Compliance Certification
+
+## Education
 **New Jersey Institute of Technology (NJIT)**, Newark, NJ  
 Bachelor of Science in Business & Information Systems  
 Expected Graduation: January 2027  
 GPA: 3.5/4.0  
 Relevant Coursework: Database Management, Business Process Management, Information Systems Analysis and Design, Web Systems Development
 
-## WORK EXPERIENCE
+## Work Experience
 
 ### Babysitter | Clifton, NJ 07011
 *Childcare Provider & Household Manager* | January 2024 - Present
@@ -37,20 +50,7 @@ Relevant Coursework: Database Management, Business Process Management, Informati
 - Maintain open communication with parents regarding children's activities, progress, and any concerns.
 - Encourage positive behavior and help children develop social skills.
 
-## TECHNICAL SKILLS
-- Programming Languages: Java, Python (basic)
-- Web Development: HTML, CSS, JavaScript
-- Database Management: SQL
-- Version Control: Git
-- Microsoft Office Suite
-- Electronic Health Record (EHR) systems
-
-## CERTIFICATIONS
-- Emergency Medical Technician (EMT) - National Registry of Emergency Medical Technicians (NREMT)
-- Basic Life Support (BLS) for Healthcare Providers - American Heart Association
-- HIPAA Compliance Certification
-
-## PROJECTS
+## Projects
 ### Inventory Management System | NJIT Course Project
 - Developed a web-based inventory management system using Java, SQL, and JavaScript
 - Implemented features for tracking stock levels, generating reports, and predicting reorder points
